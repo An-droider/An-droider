@@ -1,5 +1,5 @@
-## Hi there 👋
-<h1 align="center">I'm Ananta</h1>
+
+<h1 align="center">Hi there 👋 I'm Ananta</h1>
 <h3 align="center">An aspiring ML engineer from India</h3>
 
 - 🔭 I’m currently working on **Deep Learning Models**
