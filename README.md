@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ananta dutta choudhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananta dutta choudhury" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ananta-dutta-choudhury-b8aaa4212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananta dutta choudhury" height="30" width="40" /></a>
 <a href="https://kaggle.com/anantaduttachoudhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anantaduttachoudhury" height="30" width="40" /></a>
 </p>
 
